@@ -1,6 +1,6 @@
 # Axel Wrapper
 
-This is a simple wrapper for axel download manger, which create folders for each type of data in download folder in Ubuntu.
+This is a simple wrapper for Axel download manger, which create folders for each type of data in download folder in Ubuntu.
 There are these folders:
 
 + Compressed
